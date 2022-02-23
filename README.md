@@ -1,3 +1,3 @@
-# kubernetes mongodb Manifest YAML's
+# kubernetes mongodb for kind
 
 
